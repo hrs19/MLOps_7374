@@ -15,6 +15,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+mlruns/
 develop-eggs/
 dist/
 downloads/
@@ -26,6 +27,7 @@ include/
 lib64/
 parts/
 sdist/
+app/
 var/
 wheels/
 share/python-wheels/
@@ -33,6 +35,11 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+docker-compose.yaml
+*.sav
+logs/
+working_data/
+plugins/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
