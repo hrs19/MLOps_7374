@@ -1,10 +1,10 @@
 [![pages-build-deployment](https://github.com/raminmohammadi/MLOps/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/raminmohammadi/MLOps/actions/workflows/pages/pages-build-deployment)
 
-# IE 7305 - MLOps
+# DADS 7305 - MLOps
 
 ## Overview
 
-Welcome to the MLOps Repository! This repository is dedicated to sharing reading contents, labs and exercises for the MLOps (Machine Learning Operations) course at Northeastern University. The primary goal of this repository is to provide a centralized platform for students, instructors, and anyone interested in MLOps to access and collaborate on course-related materials. You can learn more on Machine learning topics by watching my videos on [Youtube](https://www.youtube.com/channel/UCCGbsdfmgmhMLs-tjOtOp0Q) or visit my [Website](https://www.mlwithramin.com/).
+Welcome to the MLOps Repository! This repository is dedicated to sharing reading contents, labs and exercises for the MLOps (Machine Learning Operations) course at Northeastern University. The primary goal of this repository is to provide a centralized platform for students, instructors, and anyone interested in MLOps to access and collaborate on course-related materials. You can learn more on Machine learning topics by watching my videos on [Youtube](https://www.youtube.com/channel/UCCGbsdfmgmhMLs-tjOtOp0Q) or visit my [Website](https://www.mlwithramin.com/). 
 
 ## Table of Contents
 
@@ -29,12 +29,21 @@ The MLOps course at Northeastern University is designed to provide students with
 - Implement CI/CD/CM/CT (Continuous Integration/Continuous Deployment/Continuous Monitoring/Continuous Training) for ML
 - Containerize and orchestrate ML workloads
 - Handle data drift and model retraining
+- **Apply LLMOps practices to large language models (LLMs), including evaluation, alignment, monitoring, deployment, and lifecycle management**
 
 This repository hosts the labs, code samples, and documentation related to these topics.
 
 ## Labs Content
 
-This repository offers a series of hands-on labs designed to enhance your understanding of MLOps concepts. Each lab focuses on a specific aspect of the machine learning lifecycle, providing practical experience with tools and methodologies essential for deploying and managing machine learning models in production environments.
+This repository offers a series of hands-on labs designed to enhance your understanding of MLOps and LLMOps concepts. Each lab focuses on a specific aspect of the machine learning lifecycle, providing practical experience with tools and methodologies essential for deploying and managing both traditional ML models and modern LLMs in production environments.  
+
+Students will gain hands-on experience with:
+
+- Containerization, orchestration, and CI/CD pipelines  
+- ML model monitoring, retraining, and handling data drift  
+- **LLMOps labs for evaluation, monitoring, alignment, and responsible AI practices**  
+- Deployment strategies for large language models at scale  
+
 Each lab is accompanied by detailed instructions and code examples to facilitate hands-on learning. It's recommended to follow the labs sequentially, as concepts build upon each other. For additional resources and support, refer to the [Reading Materials](./Labs/Reading%20Materials) section of this repository.
 
 ## Getting Started
@@ -65,8 +74,10 @@ Your contributions will help improve the overall quality of the labs and benefit
 The reading materials of this repo was collected from Coursera under the Creative Commons License.
 
 ## License
+This repository is licensed under the MIT License. For more details, please refer to the LICENSE file.
 
-This repository is open-source and is distributed under the [Creative Commons License](LICENSE). Please review the license for more details on how you can use and share the content within this repository.
+**NEU-Specific Restriction:**  
+While the MIT License applies generally, the use, reproduction, or distribution of this content for the same or similar courses **within Northeastern University (NEU)** is **strictly prohibited** without prior written permission.
 
 ## 🌟 Star History
 
